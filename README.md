@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wanjiku8
 - 👀 I’m interested in ...web development 
 - 🌱 I’m currently learning ... Javascript React and Flutter
-- 💞️ I’m looking to collaborate on ...As many projects as possible and create solutions to every upcoming problems in the real world 
+- 💞️ I’m looking to collaborate on ...As many projects as possible and create solutions to every upcoming problem in the real world 
 - 📫 How to reach me ... wanjikuf141@gmail.com
 
 <!---
